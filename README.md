@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:swiftstacy17@gmail.com)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:anastasiia.shvydkaia@iu-study.org)
 
-🎓 Student of **Applied Artificial Intelligence** programm at IU International University of Applied Sciences 
+🎓 Student of **Applied Artificial Intelligence** programm at IU International University of Applied Sciences \
 🤖 Passionate about building AI-powered solutions that solve real-world problems  
 🌱 Currently exploring **cybersecurity**, **ethical AI**, and **cloud deployment**  
 📍 Based in Serbia  

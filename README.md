@@ -7,7 +7,6 @@
 🎓 Student of **Applied Artificial Intelligence** programm at IU International University of Applied Sciences \
 🤖 Passionate about building AI-powered solutions that solve real-world problems  
 🌱 Currently exploring **cybersecurity**, **ethical AI**, and **cloud deployment**  
-📍 Based in Serbia  
 💬 I love learning, teaching, and collaborating on cool tech
 
 ## 🧠 Key Skills

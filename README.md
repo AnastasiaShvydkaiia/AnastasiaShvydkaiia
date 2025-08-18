@@ -11,8 +11,8 @@
 
 ## 🧠 Key Skills
 - **Languages & Tools**: Python, SQL, Bash, Git, Terraform  
-- **Libraries**: Scikit-learn, Pandas, NLTK, OpenCV, PyTorch  
-- **Topics**: Machine Learning, Natural Language Processing, Cybersecurity Fundamentals
+- **Libraries**: Scikit-learn, Pandas, NumPy, matplotlib, seaborn, NLTK, OpenCV, PyTorch  
+- **Topics**: Machine Learning, Natural Language Processing, Computer Vision
 
 ## 🚀 Featured Projects
 

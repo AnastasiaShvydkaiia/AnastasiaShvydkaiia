@@ -6,29 +6,30 @@
 
 🎓 Student of **Applied Artificial Intelligence** programm at IU International University of Applied Sciences \
 🤖 Passionate about building AI-powered solutions that solve real-world problems  
-🌱 Currently exploring **cybersecurity**, **ethical AI**, and **cloud deployment**  
 💬 I love learning, teaching, and collaborating on cool tech
 
 ## 🧠 Key Skills
-- **Languages & Tools**: Python, SQL, Bash, Git, Terraform  
-- **Libraries**: Scikit-learn, Pandas, NumPy, matplotlib, seaborn, NLTK, OpenCV, PyTorch, TensorFlow 
-- **Topics**: Machine Learning, Natural Language Processing, Computer Vision
+- **Languages**: Python, С/C++, Bash
+- **Data**: SQL, PostgreSQL, MS SQL Server, Numpy, Pandas, SQLAlchemy
+- **ML**: Scikit-learn, PyTorch, TensorFlow, OpenCV, NLTK, MLflow
+- **Visualization**: Matplotlib, Seaborn
+- **DevOps**: Docker, Git, Linux, Terraform, AWS
+- **Development**: Flask, Pytest, Jupyter Lab
+- **MLOps**: Apache Kafka, Apache Airflow, Prometheus, Grafana
+
 
 ## 🚀 Featured Projects
 
-- 🎥 [Detection & Segmentation with Mask R-CNN](https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CNN)  
+- [Anomaly Detection in an IoT Sensors](https://github.com/AnastasiaShvydkaiia/Anomaly-detection-in-an-IoT-setting)
+  ML API that detects anomalies in industrial sensor data using Isolation Forest.
+
+- [Detection & Segmentation with Mask R-CNN](https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CNN)  
   Object detection and segmentation in videos using deep learning.
 
-- 📊 [Sentiment Analysis on Movie Reviews](https://github.com/AnastasiaShvydkaiia/Sentiment-Analysis-on-Movie-Reviews)  
+- [Sentiment Analysis on Movie Reviews](https://github.com/AnastasiaShvydkaiia/Sentiment-Analysis-on-Movie-Reviews)  
   NLP project using supervised learning to classify sentiment.
 
-- 🧠 [Mental Health in Tech Jobs](https://github.com/AnastasiaShvydkaiia/Mental-Health-in-Technology-related-Jobs)  
-  Data exploration and unsupervised learning on a mental health dataset.
-
-- ⏳ [Habit Tracker](https://github.com/AnastasiaShvydkaiia/Habit-Tracker)  
-  Simple app to monitor and maintain productive daily routines.
-
-- ☁️ [AWS Website Hosting](https://github.com/AnastasiaShvydkaiia/AWS-website)  
+- [AWS Website Hosting](https://github.com/AnastasiaShvydkaiia/AWS-website)  
   Hosted a static site on AWS using infrastructure as code (Terraform).
 
 ---

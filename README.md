@@ -20,7 +20,7 @@
 
 ## 🚀 Featured Projects
 
-- [Anomaly Detection in an IoT Sensors](https://github.com/AnastasiaShvydkaiia/Anomaly-detection-in-an-IoT-setting)
+- [Anomaly Detection in an IoT Sensors](https://github.com/AnastasiaShvydkaiia/Anomaly-detection-in-an-IoT-setting)\
   ML API that detects anomalies in industrial sensor data using Isolation Forest.
 
 - [Detection & Segmentation with Mask R-CNN](https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CNN)  

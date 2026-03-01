@@ -17,21 +17,6 @@
 - **Development**: Flask, Pytest, Jupyter Lab
 - **MLOps**: Apache Kafka, Apache Airflow, Prometheus, Grafana
 
-
-## 🚀 Featured Projects
-
-- [Anomaly Detection in an IoT Setting](https://github.com/AnastasiaShvydkaiia/Anomaly-detection-in-an-IoT-setting)\
-  ML API that detects anomalies in industrial sensor data using Isolation Forest.
-
-- [Detection & Segmentation with Mask R-CNN](https://github.com/AnastasiaShvydkaiia/Detection-and-Segmentation-with-Mask-R-CNN)  
-  Object detection and segmentation in videos using deep learning.
-
-- [Sentiment Analysis on Movie Reviews](https://github.com/AnastasiaShvydkaiia/Sentiment-Analysis-on-Movie-Reviews)  
-  NLP project using supervised learning to classify sentiment.
-
-- [AWS Website Hosting](https://github.com/AnastasiaShvydkaiia/AWS-website)  
-  Hosted a static site on AWS using infrastructure as code (Terraform).
-
 ---
 
 *“Learning is never cumulative, it is a movement of knowing which has no beginning and no end.” – Bruce Lee*

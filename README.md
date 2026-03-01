@@ -15,7 +15,7 @@
 - **Visualization**: Matplotlib, Seaborn
 - **DevOps**: Docker, Git, Linux, Terraform, AWS
 - **Development**: Flask, Pytest, Jupyter Lab
-- **MLOps**: Apache Kafka, Apache Airflow, Prometheus, Grafana
+- **MLOps**: Apache Kafka, Apache Airflow, Apache Spark, Prometheus, Grafana
 
 ---
 
